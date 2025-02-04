@@ -77,9 +77,8 @@ public class javaAtm {
 					return 0;
 				} else {
 					return amount;
-				}
 			}
-
-	}
+			}
+}
 
 
