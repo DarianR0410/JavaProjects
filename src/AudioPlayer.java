@@ -14,7 +14,7 @@ public class AudioPlayer {
 	public static void main(String[] args) throws LineUnavailableException {
 		
 		
-		// How to play audio with Java.
+		
 		
 		String filePath = "src/Rollercoaster - Everet Almond.wav";
 		
