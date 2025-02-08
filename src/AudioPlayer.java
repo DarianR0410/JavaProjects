@@ -55,7 +55,7 @@ public class AudioPlayer {
 		
 		catch (LineUnavailableException e) {
 			
-			System.out.println("Unavle to access audio resource");
+			System.out.println("Unable to access audio resource");
 			
 		}
 		
